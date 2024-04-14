@@ -306,6 +306,8 @@
     },
     "extensions": {
         "recommendations": [
+            // supabase
+            "denoland.vscode-deno",
             // my extensions, ofc :P
             "antfu.browse-lite",
             "antfu.iconify",
