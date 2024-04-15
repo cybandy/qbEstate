@@ -57,13 +57,13 @@ const { headerColor } = storeToRefs(useThemeStore())
       <ULink to="tel:393883835946" target="_blank">+393883835946</ULink>
       <div class="flex items-center gap-5">
         <ULink to="https://www.facebook.com/profile.php?id=100083577977374" target="_blank">
-          <UIcon name="fa-brands:facebook-square" class="w-10 h-auto" />
+          <UIcon name="fa-brands:facebook-square" class="size-10" />
         </ULink>
         <ULink to="https://www.instagram.com/qbtechnology_/" target="_blank">
-          <UIcon name="fa-brands:instagram" class="w-10 h-auto" />
+          <UIcon name="fa-brands:instagram" class="size-10" />
         </ULink>
         <ULink to="https://www.instagram.com/qbtechnology_/" target="_blank">
-          <UIcon name="fa-brands:telegram-plane" class="w-10 h-auto" />
+          <UIcon name="fa-brands:telegram-plane" class="size-10" />
         </ULink>
       </div>
     </div>

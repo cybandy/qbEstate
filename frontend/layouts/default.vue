@@ -1,6 +1,6 @@
 <template>
-  <div class="relative h-screen overflow-auto">
-    <header class="sticky top-0 bg-transparent">
+  <div class="relative h-dvh overflow-auto">
+    <header class="absolute top-0 bg-transparent w-full z-10">
       <TemplateHeader />
     </header>
     <main class="h-full">
