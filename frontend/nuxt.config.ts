@@ -1,6 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  css:[
+    '~/assets/css/main.css'
+  ],
   devServer: {
     host: "qbestate.local",
     port: 443,
@@ -17,7 +20,8 @@ export default defineNuxtConfig({
     "@nuxt/ui",
     '@nuxtjs/supabase',
     "@nuxt/fonts",
-    "@nuxt/eslint"
+    "@nuxt/eslint",
+    '@vueuse/nuxt',
   ],
   lodash: {
     prefix: "_",
@@ -30,5 +34,8 @@ export default defineNuxtConfig({
   },
   ui:{
     
+  },
+  colorMode:{
+    preference:'light'
   }
 })
