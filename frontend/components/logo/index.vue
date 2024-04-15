@@ -1,5 +1,10 @@
 <script setup>
-const textColor = "black"
+const props = defineProps({
+  textColor:{
+    type:String,
+    default:'black'
+  }
+})
 </script>
 <template>
   <svg width="166" height="52" viewBox="0 0 166 52" fill="none" xmlns="http://www.w3.org/2000/svg" v-bind="$attrs">

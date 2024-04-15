@@ -32,7 +32,7 @@ module.exports = {
       
       },
       fontFamily:{
-        "nunitoSans":["nunito sans"]
+        "nunitoSans":["Nunito Sans"]
       },
       screens: {
         xs: "576px",
