@@ -1,0 +1,37 @@
+{
+  "thumbnail":[
+    "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg",
+    "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg",
+    "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg",
+    "https://images.pexels.com/photos/5524205/pexels-photo-5524205.jpeg",
+    "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg"
+  ],
+  "kitchen":[
+    "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    "https://images.pexels.com/photos/8031909/pexels-photo-8031909.jpeg",
+    "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg",
+    "https://images.pexels.com/photos/3773570/pexels-photo-3773570.png",
+    "https://images.pexels.com/photos/2001944/pexels-photo-2001944.jpeg"
+  ],
+  "bedrooms":[
+    "https://images.pexels.com/photos/8031889/pexels-photo-8031889.jpeg",
+    "https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg",
+    "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg",
+    "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg",
+    "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+  ],
+  "bathroom":[
+    "https://images.pexels.com/photos/342800/pexels-photo-342800.jpeg",
+    "https://images.pexels.com/photos/7167064/pexels-photo-7167064.jpeg",
+    "https://images.pexels.com/photos/8583758/pexels-photo-8583758.jpeg",
+    "https://images.pexels.com/photos/16249146/pexels-photo-16249146/free-photo-of-modern-bathroom-with-white-marble-tiles.jpeg",
+    "https://images.pexels.com/photos/8134806/pexels-photo-8134806.jpeg2"
+  ],
+  "living_space":[
+    "https://images.pexels.com/photos/2343465/pexels-photo-2343465.jpeg",
+    "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg",
+    "https://images.pexels.com/photos/3701434/pexels-photo-3701434.jpeg",
+    "https://images.pexels.com/photos/7168014/pexels-photo-7168014.jpeg",
+    "https://images.pexels.com/photos/3773572/pexels-photo-3773572.png"
+  ]
+}
