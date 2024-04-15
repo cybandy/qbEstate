@@ -1,6 +1,14 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  devServer: {
+    host: "qbestate.local",
+    port: 443,
+    https: {
+      key: "./ssl/qbestate.local-key.pem",
+      cert: "./ssl/qbestate.local.pem",
+    },
+  },
   modules: [
     "@pinia/nuxt",
     "@nuxt/image",
@@ -19,5 +27,8 @@ export default defineNuxtConfig({
     families: [
       { name: 'Nunito Sans', provider: 'google', weights: ['400', '500', '600', '700'] }
     ]
+  },
+  ui:{
+    
   }
 })

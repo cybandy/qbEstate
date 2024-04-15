@@ -7,7 +7,9 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lintfix": "eslint . --fix"
   },
   "dependencies": {
     "@nuxt/eslint": "^0.3.6",
@@ -22,6 +24,8 @@
   "devDependencies": {
     "@nuxtjs/supabase": "^1.2.0",
     "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
-    "nuxt-lodash": "^2.5.3"
+    "nuxt-lodash": "^2.5.3",
+    "@antfu/eslint-config": "^2.13.3",
+    "eslint": "^9.0.0"
   }
 }
